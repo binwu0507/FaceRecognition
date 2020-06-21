@@ -123,10 +123,7 @@ namespace FaceRecognitionWinForm
                     //}
 
                     //pictureFace1.Image = bitmapFace;
-
-
                     CopyImage(pictureBox1, pictureFace1, rectangles[0]);
-
                 }
             }
             else
